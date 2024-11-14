@@ -7,7 +7,7 @@ This is a simple calendar application built with React. It allows users to view 
 
 ![Screenshot][image](https://github.com/user-attachments/assets/77a2783c-d852-4166-af9b-eb3d57d9c40d)
 
-![Screenshot](![image](https://github.com/user-attachments/assets/a40992c9-132b-4e8c-b030-631837a07826)
+(![image](https://github.com/user-attachments/assets/a40992c9-132b-4e8c-b030-631837a07826)
 )
 ![Screenshot](![image](https://github.com/user-attachments/assets/efd6e941-15e9-476e-9dbe-c273656c6d41)
 )
